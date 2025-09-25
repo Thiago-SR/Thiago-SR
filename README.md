@@ -31,7 +31,7 @@
 
 ## 🌱 Sobre mim
 - 🎓 Estudante de **Engenharia da Computação**  
-- 🧠 Interesse em **IA, Estatística e Sistemas Distribuídos**  
+- 🧠 Interesse em **IA, Estatística e Ciência de Dados**  
 - 🚀 Aprendendo sempre com **projetos práticos**  
 
 ---
@@ -40,4 +40,5 @@
 <div>
   <a href="https://www.linkedin.com/in/thiagorodrigues-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagosr21.ts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/seu_usuario" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
